@@ -1,3 +1,10 @@
 body{
-background-color:bisque;
-}
+    background-color:bisque;
+    }
+    
+#table_race, #table_vendor{
+        border: 1px solid;
+    }
+#quote {
+        font-size:smaller;
+    }
